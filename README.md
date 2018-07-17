@@ -1,4 +1,6 @@
 # Oath_Challenge
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaninavin%2FOath_Challenge.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaninavin%2FOath_Challenge?ref=badge_shield)
+
 Username and Password validation
 Setup Details: 
 1.	Pre-requisites: Python 3.6, Flask, sqllite3, hashlib, virtualenv
@@ -40,3 +42,7 @@ b.	Users email ID can be used for username field or not?
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmaninavin%2FOath_Challenge.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmaninavin%2FOath_Challenge?ref=badge_large)
